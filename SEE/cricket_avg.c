@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include <string.h>
-human centified
+#include <string.h>
 struct cricket
 {
     char player_name[20];
